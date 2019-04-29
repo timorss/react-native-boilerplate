@@ -14,10 +14,10 @@ export default class LoginView extends Component {
             <View style={styles.container}>
                 <Button
                     onPress={this.onPress}
-                    title="Navigate to Home"
+                    title="lll"
                     color="#841584"
                     accessibilityLabel="Learn more about this purple button"
-                />
+                >sssss</Button>
                 <Text>Status: {this.props.status}</Text>
             </View>
         );
